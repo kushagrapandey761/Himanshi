@@ -2,7 +2,8 @@ import React from "react";
 import ReactDOM from 'react-dom';
 function Thanks(){
     return <div className="Thanks">
-        <p>I just want to say whatever I am today is because of you. Thank you for sacrificing your life to make mine. Nothing can ever repay for what you have done for me.</p>
+        <p>Life doesn't come with a manual, it comes with a mother.</p><br/>
+        <p className="Quote">"A mother is she who can take the place of all others but whose place no one else can take." - Cardinal Mermillod.</p>
     </div>
 }
 export default Thanks;

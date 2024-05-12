@@ -18,12 +18,13 @@ img{
 .Thanks{
     position: relative;
     top:20px;
+    left: 560px;
 }
 .Button{
     width: 831px;
     position: relative;
-    top: 20px;
-    left: 680px;
+    top: 50px;
+    left: 640px;
 }
 button{
     background-color: #ACE1AF;
@@ -35,6 +36,14 @@ video{
     position: relative;
     top: 90px;
     left: 240px;
+}
+.para{
+    position: relative;
+    left: 320px;
+}
+.Quote{
+    position: relative;
+    right: 180px;
 }
 /* Styles for screens smaller than 600px */
 @media only screen and (max-width: 600px) {
@@ -57,10 +66,10 @@ video{
         width: 500px;
         height: 300px;
         font-size: 50px;
-        right: 200px;
+        right: 220px;
     }
     img{
-        left: 270px;
+        left: 260px;
         width: 900px;
         height: 700px;
     }
